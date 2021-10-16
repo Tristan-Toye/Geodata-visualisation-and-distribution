@@ -16,4 +16,4 @@ The entire framework is supported by the flask library.
 *** ***
 # Note
 *** ***
-Index.html needs to be in the map 'templates'. This map also needs to be in the same map as app.py. Otherwise flask won't know where to find the html file.
+Index.html needs to be in the folder 'templates'. This map also needs to be in the same folder as app.py. Otherwise flask won't know where to find the html file.
