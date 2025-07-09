@@ -1,0 +1,25 @@
+# Geodata Visualization and Distribution - Python Dependencies
+
+# Web Framework
+Flask>=2.0.0
+
+# Data Streaming
+pykafka>=2.8.0
+
+# Data Visualization
+plotly>=5.0.0
+
+# Serial Communication
+pyserial>=3.5
+
+# Geospatial Processing
+geopy>=2.2.0
+
+# JSON Processing (included with Python 3.7+)
+# json - built-in module
+
+# Date/Time Processing (included with Python 3.7+)
+# datetime - built-in module
+
+# System Utilities (included with Python 3.7+)
+# sys - built-in module 
